@@ -1,7 +1,7 @@
 {
     "dev": {
         "aws_region": "us-east-1",
-        "django_settings": "mysite.mysite.settings",
+        "django_settings": "mysite.settings",
         "profile_name": "default",
         "project_name": "django-polls",
         "runtime": "python3.6",
